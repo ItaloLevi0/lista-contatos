@@ -1,0 +1,25 @@
+{
+  "contatos": [
+    {
+      "nome": "Italo ",
+      "endereco": "baraomdoa",
+      "telefone": "43242343",
+      "id": 2,
+      "item": "Italoo"
+    },
+    {
+      "nome": "Levi",
+      "telefone": "85 3131231231",
+      "endereco": "dnai",
+      "id": 4,
+      "item": "Levi"
+    },
+    {
+      "nome": "OPasasa",
+      "telefone": "74574",
+      "endereco": "dknasiod",
+      "id": 5,
+      "item": "Pasasa"
+    }
+  ]
+}
