@@ -2,7 +2,7 @@
 
 
 ## Baixe o node.js
----
+
 acesse **https://nodejs.org/**, baixe e instale o node.js no seu computador. Com o programa instalado siga para o próximo passo.
 
 ## Instale o json-server
